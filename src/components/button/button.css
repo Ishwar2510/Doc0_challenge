@@ -1,0 +1,33 @@
+.addToCartBtn {
+    padding: 5px;
+    width: 100px;
+    font-size: medium;
+    border-radius: 2px;
+    border-color: blue;
+    border: 1px solid blue;
+    color:blue;
+}
+.addToCartBtn:hover {
+    background-color: green;
+    color:yellow;
+}
+.addToCartBtn2 {
+    width: 100%;
+    display: flex;
+}
+.addToCartBtn2 button {
+    background-color: blue;
+    width: 30px;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    font-size: 25px;
+    height: 30px;
+}
+.addToCartBtn2 input {
+    width: 50px;
+    text-align: center;
+    border: none;
+    font-size: 13px;
+    font-weight: bolder;
+}
